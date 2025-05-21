@@ -17,7 +17,7 @@
                 unit: '%',
                 animation: true,
                 // Styling Options
-                fillBackgroundColor: '#FA7D3C ',
+                fillBackgroundColor: '#9B7EBD ',
                 backgroundColor: '#E6E7E9',
                 radius: '15px',
                 height: '13px',
